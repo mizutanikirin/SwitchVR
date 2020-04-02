@@ -4,7 +4,7 @@ SwitchVRはAndroidでノーマルビューとVRビューの切り替えができ
 
 # 使い方
 ### 1. SwitchVRの準備
-1. SwitchVR.unitypackageをプロジェクトにインポートする。
+1. [SwitchVR.unitypackage](https://github.com/mizutanikirin/SwitchVR/releases/tag/ver1.0.0)をプロジェクトにインポートする。
 2. Assets/SwitchVR/DemoSwitchVR.unityを開く。
 3. SwitchVR(GameObject)をコピーして使いたいシーンへペーストする。
 ### 2. [Player Settings]設定をする。
