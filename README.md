@@ -22,9 +22,7 @@ SwitchVRはAndroidでノーマルビューとVRビューの切り替えができ
 2. [Inspector > SwitchVR]で[InitXREnable]の設定をする。
   2.1. 起動時はVRモードでない場合: false
   2.2. 起動時はVRモードである場合: true
-
-  
-### 6. [Inspector > SwitchVR]で[InitXREnable]の設定をする。
+3. [Inspector > SwitchVR]で[InitXREnable]の設定をする。
 
 ### 7. コードを書く。
 ```
