@@ -2,6 +2,10 @@
 SwitchVRはAndroidでノーマルビューとVRビューの切り替えができるAssetです。
 ![0](https://user-images.githubusercontent.com/4795806/78230258-0a3c4200-750c-11ea-8a31-011ebba47e7b.png)
 
+[開発環境]  
+Windows10 Pro  
+Unity 2018.3.14f1
+
 # 使い方
 ### 1. SwitchVRの準備
 1. [SwitchVR.unitypackage](https://github.com/mizutanikirin/SwitchVR/releases/tag/ver1.0.0)をプロジェクトにインポートする。
