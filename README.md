@@ -1,2 +1,2 @@
-# mizutanikirin
-SwichVR
+# SwitchVR
+SwitchVRはAndroidでノーマルビューとVRビューの切り替えができるAssetです。
